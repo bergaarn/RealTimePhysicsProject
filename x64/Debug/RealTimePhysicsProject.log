@@ -1,0 +1,37 @@
+﻿  cellgrids.cpp
+  magnuseffect.cpp
+  main.cpp
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(18,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(18,15): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(30,37): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(30,37): warning C4305:         with
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(30,37): warning C4305:         [
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(30,37): warning C4305:             T=float
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(30,37): warning C4305:         ]
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(35,37): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(35,37): warning C4305:         with
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(35,37): warning C4305:         [
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(35,37): warning C4305:             T=float
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(35,37): warning C4305:         ]
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(41,35): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(41,35): warning C4244:         with
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(41,35): warning C4244:         [
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(41,35): warning C4244:             T=float
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(41,35): warning C4244:         ]
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(45,35): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(45,35): warning C4244:         with
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(45,35): warning C4244:         [
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(45,35): warning C4244:             T=float
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(45,35): warning C4244:         ]
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(65,50): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(65,43): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(125,31): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(125,31): warning C4305:         with
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(125,31): warning C4305:         [
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(125,31): warning C4305:             T=float
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(125,31): warning C4305:         ]
+C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\main.cpp(236,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  pendulum.cpp
+  pong.cpp
+  Generating Code...
+  RealTimePhysicsProject.vcxproj -> C:\Users\joelb\Documents\Skolarbete\Programming\Realtidsfysik\RealTimePhysicsProject\x64\Debug\RealTimePhysicsProject.exe
