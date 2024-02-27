@@ -3,7 +3,9 @@
         {
             "name": "Mac",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/Users/joel/Documents/GitHub/RealTimePhysicsProject/SFML/include/SFML",
+                "${workspaceFolder}/SFML/include"
             ],
             "defines": [],
             "macFrameworkPath": [],

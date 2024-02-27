@@ -1,5 +1,7 @@
 //#include <SFML/Graphics.hpp>
-#include <SFML/Includes/Graphics.hpp>
+
+//#include "Graphics.hpp"
+#include "SFML/include/SFML/Graphics.hpp"
 #include <iostream>
 #include <cmath>
 #include <chrono>
