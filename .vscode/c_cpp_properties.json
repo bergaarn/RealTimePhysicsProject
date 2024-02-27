@@ -6,7 +6,8 @@
                 "${workspaceFolder}/**"
             ],
             "defines": [],
-            "macFrameworkPath": []
+            "macFrameworkPath": [],
+            "compilerPath": "/usr/bin/clang++"
         }
     ],
     "version": 4
