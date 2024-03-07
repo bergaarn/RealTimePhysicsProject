@@ -1,4 +1,4 @@
-#include <SFML/Graphics.hpp>
+#include <Graphics.hpp>
 #include <iostream>
 #include <cmath>
 #include <chrono>
