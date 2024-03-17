@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A928207E-6941-45F9-8F89-2126BDB5B51C}|RealTimePhysicsProject.vcxproj|C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\pong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A928207E-6941-45F9-8F89-2126BDB5B51C}|RealTimePhysicsProject.vcxproj|solutionrelative:pong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A928207E-6941-45F9-8F89-2126BDB5B51C}|RealTimePhysicsProject.vcxproj|C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\pendulum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A928207E-6941-45F9-8F89-2126BDB5B51C}|RealTimePhysicsProject.vcxproj|solutionrelative:pendulum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A928207E-6941-45F9-8F89-2126BDB5B51C}|RealTimePhysicsProject.vcxproj|C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\magnuseffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A928207E-6941-45F9-8F89-2126BDB5B51C}|RealTimePhysicsProject.vcxproj|solutionrelative:magnuseffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\SFML\\include\\SFML\\Graphics.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SFML\\include\\SFML\\Graphics.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -39,66 +27,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "pong.cpp",
-              "DocumentMoniker": "C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\pong.cpp",
-              "RelativeDocumentMoniker": "pong.cpp",
-              "ToolTip": "C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\pong.cpp",
-              "RelativeToolTip": "pong.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-17T22:03:00.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "pendulum.cpp",
-              "DocumentMoniker": "C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\pendulum.cpp",
-              "RelativeDocumentMoniker": "pendulum.cpp",
-              "ToolTip": "C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\pendulum.cpp",
-              "RelativeToolTip": "pendulum.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-17T22:02:59.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "magnuseffect.cpp",
-              "DocumentMoniker": "C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\magnuseffect.cpp",
-              "RelativeDocumentMoniker": "magnuseffect.cpp",
-              "ToolTip": "C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\magnuseffect.cpp",
-              "RelativeToolTip": "magnuseffect.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-17T22:02:52.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Graphics.hpp",
               "DocumentMoniker": "C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\SFML\\include\\SFML\\Graphics.hpp",
               "RelativeDocumentMoniker": "SFML\\include\\SFML\\Graphics.hpp",
               "ToolTip": "C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\SFML\\include\\SFML\\Graphics.hpp",
               "RelativeToolTip": "SFML\\include\\SFML\\Graphics.hpp",
-              "ViewState": "AQIAABAAAAAAAAAAAAASwB8AAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAASwBwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-07T10:46:40.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\joelb\\Documents\\GitHub\\RealTimePhysicsProject\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-07T10:31:59.349Z"
+              "WhenOpened": "2024-03-07T10:31:59.349Z",
+              "EditorCaption": ""
             }
           ]
         }
